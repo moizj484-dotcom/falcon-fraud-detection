@@ -1,0 +1,22 @@
+[
+    "step",
+    "amount",
+    "oldbalanceOrg",
+    "newbalanceOrig",
+    "oldbalanceDest",
+    "newbalanceDest",
+    "hour",
+    "day",
+    "log_amount",
+    "origin_balance_error",
+    "origin_balance_change",
+    "origin_emptied",
+    "destination_balance_change",
+    "destination_balance_error",
+    "dest_zero_init",
+    "type_CASH_IN",
+    "type_CASH_OUT",
+    "type_DEBIT",
+    "type_PAYMENT",
+    "type_TRANSFER"
+]

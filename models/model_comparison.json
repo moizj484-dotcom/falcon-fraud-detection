@@ -1,0 +1,51 @@
+{
+    "models": {
+        "Logistic Regression": {
+            "accuracy": 0.9712051652255731,
+            "precision": 0.4804733727810651,
+            "recall": 0.9884357881923311,
+            "f1_score": 0.6466255225960581,
+            "roc_auc": 0.9969644755528505,
+            "true_negatives": 58244,
+            "false_positives": 1756,
+            "false_negatives": 19,
+            "true_positives": 1624
+        },
+        "Random Forest": {
+            "accuracy": 0.9998215531366091,
+            "precision": 0.9945454545454545,
+            "recall": 0.9987827145465612,
+            "f1_score": 0.9966595809292439,
+            "roc_auc": 0.999996084398458,
+            "true_negatives": 59991,
+            "false_positives": 9,
+            "false_negatives": 2,
+            "true_positives": 1641
+        }
+    },
+    "best_model": "Random Forest",
+    "selection_metric": "f1_score",
+    "feature_names": [
+        "step",
+        "amount",
+        "oldbalanceOrg",
+        "newbalanceOrig",
+        "oldbalanceDest",
+        "newbalanceDest",
+        "hour",
+        "day",
+        "log_amount",
+        "origin_balance_error",
+        "origin_balance_change",
+        "origin_emptied",
+        "destination_balance_change",
+        "destination_balance_error",
+        "dest_zero_init",
+        "type_CASH_IN",
+        "type_CASH_OUT",
+        "type_DEBIT",
+        "type_PAYMENT",
+        "type_TRANSFER"
+    ],
+    "test_size": 61643
+}

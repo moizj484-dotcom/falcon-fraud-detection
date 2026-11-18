@@ -1,0 +1,22 @@
+{
+    "origin_balance_error": 0.2851955729775489,
+    "origin_balance_change": 0.18172699746631782,
+    "origin_emptied": 0.17691845316412624,
+    "oldbalanceOrg": 0.08336941772433099,
+    "newbalanceOrig": 0.05856086359128653,
+    "log_amount": 0.03517022006196181,
+    "type_PAYMENT": 0.03370781814884544,
+    "amount": 0.03229585571574961,
+    "type_TRANSFER": 0.020586904126980613,
+    "destination_balance_change": 0.0182498848333897,
+    "destination_balance_error": 0.013603777233126411,
+    "hour": 0.01235153822688983,
+    "step": 0.010189975398994381,
+    "day": 0.010118129613928283,
+    "type_CASH_OUT": 0.008629478252713287,
+    "newbalanceDest": 0.00781962961958466,
+    "type_CASH_IN": 0.006659736721920357,
+    "oldbalanceDest": 0.004080932436574504,
+    "dest_zero_init": 0.0006401268933790625,
+    "type_DEBIT": 0.00012468779235145897
+}
